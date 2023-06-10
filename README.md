@@ -25,3 +25,10 @@ git checkout <muda de branch>: Muda de branch/ramo
 git merge <nome da branch>: Ele adiciona a branch atual e o conteúdo de outra branch
 
 gitk: abre uma tela que mostra todo o historico do que foi feito no projeto
+
+git clone<url>: Baixa o projeto do repositório
+git push: Ele envia alterações para o repositório
+git pull: Ele puxa as alterações do repositório
+
+Possiveis erros:
+erro 403: Apagando as credenciais(vai no windows-gerenciamento de credenciais e apagar o usuario anterior)
