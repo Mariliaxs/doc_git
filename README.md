@@ -27,7 +27,9 @@ git merge <nome da branch>: Ele adiciona a branch atual e o conteúdo de outra b
 gitk: abre uma tela que mostra todo o historico do que foi feito no projeto
 
 git clone<url>: Baixa o projeto do repositório
+
 git push: Ele envia alterações para o repositório
+
 git pull: Ele puxa as alterações do repositório
 
 Possiveis erros:
