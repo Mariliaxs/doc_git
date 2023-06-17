@@ -6,14 +6,16 @@ git init:
 ````
 Ele inicia o arquivo ".git/" para controlar a pasta.
 
+````
+git status:
+````
+ele é responsável por validar os arquivos modificados dentro do projeto.
 
-git status: ele é responsável por validar os arquivos modificados dentro do projeto.
-
-
+````
 Configuração do git:
 git config --global user.name"<seu_name>"
 git config --global user.email"<seu_email>"
-
+````
 git add: Ele é responspavel por colocar o arquivo modificado em uma área segura.
 
 git commit -m "< texto_da_modificação>": Ele é responsável por criar uma nova versão do projeto com as referencias do criador.
