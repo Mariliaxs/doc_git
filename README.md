@@ -72,5 +72,8 @@ git pull:
   ver o comando anterior quando limpamos a tela com ctrl l.
 
 ## Possíveis erros: 
-### erro 403: 
-> Apagando as credenciais(vai no windows-gerenciamento de credenciais e apagar o usuario anterior)
+### erro 403:
+Não conseguimos logar com a nossa conta pois consta outra conta no pc.
+````
+Solução: 
+> Apagando as credenciais(vai no windows-gerenciamento de credenciais e apaga o usuario anterior)
