@@ -1,21 +1,24 @@
+
 # Documentação do git para ajudar nos comandos.
+
+## Iniciar o projeto no git bash here
 ````
 git init: 
 ````
 Ele inicia o arquivo ".git/" para controlar a pasta.
 
-````
-git status:
-````
- ele é responsável por validar os arquivos modificados dentro do projeto.
-
+## Configuração de usuario
 ````
  git config --global user.name"<seu_name>"
 ````
  ````
  git config --global user.email"<seu_email>"
 ````
-Configuração de usuario 
+ ## Comando para atualizar modificações
+````
+git status:
+````
+ ele é responsável por validar os arquivos modificados dentro do projeto.
 ````
 git add:
 ````
@@ -25,7 +28,6 @@ git commit -m "< texto_da_modificação>":
 ````
 Ele é responsável por criar uma nova versão do projeto com as referencias do criador.
 
-ctrl l deixa a tela limpa. seta para cima ver o comando anterior quando limpamos a tela com ctrl l.
 ````
 git log:
 ````
@@ -58,6 +60,16 @@ git push:
 git pull:
 ````
  Ele puxa as alterações do repositório
+
+ ## Comandos extras
+ ````
+ ctrl l:
+ ````
+  deixa a tela limpa. 
+  ````
+  seta para cima: 
+  ````
+  ver o comando anterior quando limpamos a tela com ctrl l.
 
 ## Possíveis erros: 
 ### erro 403: 
